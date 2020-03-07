@@ -1,0 +1,22 @@
+.btn{
+  background-color: #F05F44;
+  border-color: #F05F44;
+   }
+
+.btn:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+.container{
+	width:70%;
+}
+h1{
+	text-align:center;
+	color:#ee4b08;
+	font-size:1.5em;
+}
+.container{
+	background-color:#f2f2f2;
+}

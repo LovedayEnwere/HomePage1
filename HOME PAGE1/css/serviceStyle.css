@@ -1,0 +1,21 @@
+body{
+	background-color:#f2f2f2;
+}
+.container{
+	text-align:center;
+}
+h1{
+	color:#ee4b08;
+}
+h2{
+	text-transform:uppercase;
+	font-family:"Lucidsa Grande","Helvetica","Arial",sans-serif;
+	font-size:1em;
+
+}
+ul{
+	color:#444b53;
+	list-style-type:none;
+	font-family:"Lucidsa Grande","Helvetica","Arial",sans-serif;
+	line-height:25px;
+}
